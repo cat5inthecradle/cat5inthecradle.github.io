@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Recycling Tech Hardware
+tags: it
+excerpt: Ethical consistency is something I strive for, and occasionally I discover places where one part of my life unexpectedly intersects with another. In this case the topic of recycling old tech hardware, something I dealt with frequently at $MSP, has intersected with my personal stance on Environmentalism.
 ---
-
-# Recycling Tech Hardware
 
 ![Computer Hardware]({{ site.url }}/assets/images/2015-09-30-old-hardware.png)
 

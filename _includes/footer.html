@@ -1,32 +1,13 @@
-<footer class="site-footer footer">
-    <div class="container-fluid">
-        <ul class="list-unstyled text-muted">
+<footer class="footer bg-inverse">
+
+    <div class="container">
+        <ul class="contact-list">
             <li>{{ site.title }}</li>
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            <li>
-                {% if site.aboutme_username %}
-                <a href="https://about.me/{{ site.aboutme_username }}" title="Twitter: {{ site.aboutme_username }}">
-                    about.me
-                </a>
-                {% endif %}
-            </li>
-            <li>
-                {% if site.github_username %}
-                <a href="https://github.com/{{ site.github_username }}" title="Github: {{ site.github_username }}">
-                    github
-                </a>
-                {% endif %}
-            </li>
-            <li>
-                {% if site.twitter_username %}
-                <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter: {{ site.twitter_username }}">
-                    twitter
-                </a>
-                {% endif %}
-            </li>
         </ul>
+
+        <p>{{ site.description }}</p>
+
     </div>
-    <script src="{{ '/js/jquery-1.12.0.min.js' | prepend: site.baseurl }}"></script>
-    <script src="{{ '/js/tether.min.js' | prepend: site.baseurl }}"></script>
-    <script src="{{ '/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
+
 </footer>
