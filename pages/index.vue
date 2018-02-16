@@ -1,3 +1,11 @@
 <template>
-  <h1>Hello world!</h1>
+  <div>
+    <h1>Boom!</h1>
+    <ul>
+      <li><a href="/allstate">All State</a></li>
+    </ul>
+  </div>
 </template>
+
+<style>
+</style>

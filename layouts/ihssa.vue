@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <nuxt/>
   </div>
 </template>
@@ -11,10 +11,12 @@
 @import "../node_modules/turretcss/dist/turretcss.min.css";
 
 body {
-  background: #ffcc33;
+  background: url('../assets/stressed_linen.png');
+  color: #b0b0b0;
 }
 
-main {
+.container {
   margin-top: 1em;
+  max-width: 512px;
 }
 </style>
