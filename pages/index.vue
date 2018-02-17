@@ -2,7 +2,7 @@
   <div>
     <h1>Boom!</h1>
     <ul>
-      <li><a href="/allstate">All State</a></li>
+      <li><a href="/ihssa">All State</a></li>
     </ul>
   </div>
 </template>
