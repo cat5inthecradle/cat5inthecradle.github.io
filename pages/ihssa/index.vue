@@ -8,7 +8,7 @@
     <section>
       <h1>Emergency Contacts</h1>
       <div class="contact-list">
-        <a v-for="contact in contacts" :key="contact.name" class="button button-pill button-primary" :href="contact.tel">{{ contact.name }}</a>
+        <a v-for="contact in contacts" :key="contact.name" class="button button-pill button-primary" :href="'tel:'+contact.tel">{{ contact.name }}</a>
       </div>
     </section>
   </div>

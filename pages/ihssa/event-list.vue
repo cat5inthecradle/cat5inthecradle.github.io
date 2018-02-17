@@ -33,7 +33,9 @@ export default {
 <style>
 .schedule-row {
   display: flex;
+  margin: auto;
   margin-bottom: 0.333em;
+  max-width: 450px;
 }
 
 .time {
