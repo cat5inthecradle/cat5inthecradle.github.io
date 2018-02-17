@@ -2,7 +2,6 @@
   <div class="container">
     <header>
       <h1 class="">IHSSA All-State Contest</h1>
-      <p class="lead">West Des Moines Valley High School</p>
     </header>
     <main>
       <event-list/>

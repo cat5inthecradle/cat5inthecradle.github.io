@@ -15,17 +15,17 @@ export default {
   data() {
     return {
       schedule: [
-        { time: "05:00", title: "Wake Up" },
-        { time: "06:45", title: "Load Buses" },
-        { time: "5:30 - 6:15am", title: "Breakfast & Wristbands" },
-        { time: "6:30am", title: "Bus leaves, bring everything!" },
-        { time: "6:40am", title: "Truck unloads Choral at CY" },
-        { time: "7:00am", title: "Truck unloads Readers at Scheman" },
-        { time: "7:15am", title: "Banner Carriers report to CY stage" },
-        { time: "7:20am", title: "DEREK return wristbands & get programs from Scheman" },
-        { time: "7:30am", title: "Hand out programs & orange flags" },
-        { time: "8:00am", title: "OPENING CEREMONIES" },
-        { time: "8:15am", title: "Musical Theatre commute to Ames Auditorium" },
+        { time: "9:25", title: "hunchback MT" },
+        { time: "12:10", title: "Yo-Yo Man SM" },
+        { time: "10:40", title: "A Murder of Crows RT" },
+        { time: "11:18", title: "Artemis SM" },
+        { time: "11:34", title: "Opus Siderum SM" },
+        { time: "11:50", title: "Perspectives TV" },
+        { time: "12:35", title: "Face Stealer GM" },
+        { time: "1:35", title: "Leaving Iowa OA" },
+        { time: "2:08", title: "AIR RN" },
+        { time: "2:58", title: "Brunch Bunch TV" },
+        { time: "3:29", title: "Faithful Elephants CR" },
       ],
     }
   },
