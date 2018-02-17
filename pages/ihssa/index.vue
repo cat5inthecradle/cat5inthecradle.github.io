@@ -1,12 +1,8 @@
 <template>
-  <div class="container">
-    <header>
-      <h1 class="">IHSSA All-State Contest</h1>
-    </header>
-    <main>
-      <event-list/>
-    </main>
-  </div>
+  <section>
+    <h1 class="">All-State Schedule</h1>
+    <event-list/>
+  </section>
 </template>
 
 <script>
