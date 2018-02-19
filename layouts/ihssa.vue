@@ -28,7 +28,7 @@ body {
   padding-left: 1em;
   padding-right: 1em;
 }
-
+color: #000;
 footer {
   position: absolute;
   bottom: 0;
