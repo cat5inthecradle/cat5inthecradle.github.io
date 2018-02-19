@@ -14,7 +14,7 @@ export default {
     return {
       schedule: [
         { time: "9:25", title: "Hunchback (MT)" },
-        { time: "12:10", title: "Yo-Yo Man (SM)" },
+        { time: "10:12", title: "Yo-Yo Man (SM)" },
         { time: "10:40", title: "A Murder of Crows (RT)" },
         { time: "11:18", title: "Artemis (SM)" },
         { time: "11:34", title: "Opus Siderum (SM)" },

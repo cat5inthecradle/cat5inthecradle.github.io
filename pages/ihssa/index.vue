@@ -17,7 +17,7 @@
 <script>
 import EventList from "./event-list"
 export default {
-  layout: "ihssa",
+  layout: "simple-dark",
   components: { EventList },
   data() {
     return {
